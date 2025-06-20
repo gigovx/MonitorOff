@@ -1,4 +1,4 @@
-('C:\\Users\\giles\\Documents\\GitHub\\MonitorOff\\build\\monitoroff\\PYZ-00.pyz',
+('C:\\Users\\giles\\Documents\\GitHub\\MonitorOff\\build\\MonitorOff\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\giles\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
